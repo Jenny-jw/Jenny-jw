@@ -1,6 +1,4 @@
-Hi, I’m Jenny 🐱
-- I’m interested in drawing, musics and photography
-- I’m currently learning Android development~
+Hi 🐱
 
 <!---
 Jenny-jw/Jenny-jw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
